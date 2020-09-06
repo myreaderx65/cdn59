@@ -1,0 +1,1500 @@
+<!doctype html>
+<html class="no-js" lang="ja">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="google-site-verification" content="gylzT_VSarGXQK6jRaQqvC50tmwFVg4mUsKwS5Fie_o" />
+<meta name="generator" content="http://www.typepad.com/" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ 
+<!-- ogp -->
+<meta property="og:title" content="：小鳥ピヨピヨ" >
+<meta property="og:type" content="article" />
+<meta property="og:description" content="">
+<meta property="og:url" content="" >
+<meta property="og:image" content="http://coolsummer.typepad.com/design/kotoripiyopiyoogimage.jpg" >
+<meta property="og:site_name" content="小鳥ピヨピヨ" >
+<meta property="fb:admins" content="1264938077" >
+<meta name="twitter:site" content="@kotoripiyopiyo">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="@kotoripiyopiyo">
+<meta name="twitter:description" content="">
+<meta name="twitter:image:src" content="http://coolsummer.typepad.com/design/kotoripiyopiyoogimage.jpg">
+<!-- //ogp -->
+
+
+
+
+<meta name="description" content="日常で起きたささやかな出来事に過剰反応しているブログです" />
+
+<link rel="stylesheet" href="https://kotoripiyopiyo.com/styles.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/t/rsd/7875" />
+
+<link rel="alternate" type="application/atom+xml" title="Posts on 小鳥ピヨピヨ (Atom)" href="https://kotoripiyopiyo.com/atom.xml" />
+
+
+
+<title>小鳥ピヨピヨ</title>
+
+<link rel="start" href="https://kotoripiyopiyo.com/" title="Home" />
+
+
+
+
+	<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://coolsummer.typepad.com/foaf.rdf" />
+
+
+<link rel="shortcut icon" href="https://coolsummer.typepad.com/design/favicon.ico">
+
+
+</head>
+
+<body class="layout-two-column-right">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ja_JP/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div id="container">
+<div id="container-inner" class="pkg">
+
+<div id="banner">
+<div id="banner-inner" class="pkg">
+	<a name="top"></a>
+	<h1 id="banner-header"><a href="https://kotoripiyopiyo.com/" accesskey="1"><img src="https://coolsummer.typepad.com/design/title_kotoripiyopiyo.png" width="230" height="117" alt="小鳥ピヨピヨ コ＝コメント　　ト＝トラックバック　　リ＝リンク" /></a></h1>
+</div><!-- #banner-inner -->
+</div><!-- #banner -->
+
+<div id="pagebody">
+<div id="pagebody-inner" class="pkg">
+
+
+<div id="alpha">
+<div id="alpha-inner" class="pkg">
+
+<!-- entries -->
+
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef026be40e2c25200d">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/09/guessthenumber20200903.html">何も見ずに書いた「数当てゲーム」【Python勉強中】</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p>先日こんなツイートを見かけて、</p>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日から新しい現場だったんだけれど、そこの新人が<br><br>・公務員やめてプログラマーに<br>・３０歳オーバー<br>・Javaはやりたく無い<br>・データサイエンティストになりたい<br>・Pythonやりたい<br><br>なんなんだ、最近、どこの現場も、こんなのばっかなのか？？</p>&mdash; かぐやん💻フリーランスSE (@KAGUYA_HOE) <a href="https://twitter.com/KAGUYA_HOE/status/1300782568531402755?ref_src=twsrc%5Etfw">September 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>急にPythonから入ってプログラミングしだす素人……<br />
+データを扱えるようになりたい素人……</p>
+
+<p>まさに僕のことじゃん……</p>
+
+<p>と、<strong>少し恥ずかしく</strong>なりました。こんにちはいちるです。</p>
+
+<p>さて、そんな僕は、いま、山のどの辺にいるかというと、</p>
+
+<p><strong>いまだにforとかifとかwhileとかの間をうろうろ</strong>しています。</p>
+
+<p>いやね、違うんですよ。</p>
+
+<p><a href="https://tellusxdp.github.io/start-python-with-tellus/index.html">初心者向けTellus学習コース</a>終わったあとで、何しようかと思った結果、結局、『<a href="https://amzn.to/3iQr7v3">退屈なことはPythonにやらせよう</a>』をやることにしたんですよね。</p>
+
+<p>この本は、機械学習でもなんでもなく、単にスクリプトとしてPythonを使おう、という本です。<br />
+そういうのも一度通っておいた方がいいかなって。</p>
+
+<p>で、<strong>ゼロからまた勉強し直し</strong>みたいになっているのと、紙のページめくるのがちょっとダルいのと、すごく忙しくなってきたのと、暑いのとで、勉強の進みがノロノロとしているわけですよ。</p>
+
+<p>なので、進歩は全くしていないのですが……</p>
+
+<p>このくらいの「数当てゲーム」なら、<strong>何も見ないでも書ける</strong>ようになりました。</p>
+</div><!-- .entry-body -->
+
+<!-- links to your extended entry -->
+	<div class="item-header more-header">
+		<a href="https://kotoripiyopiyo.com/2020/09/guessthenumber20200903.html#more">続きを読む</a>
+	</div>
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/09/04　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef026be4090799200d">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/08/tureandfalse20200816.html">TrueとFalseでこんがらがる[Python勉強中]</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p>今更ながらに、改めて、TrueとFalseが難しい。「今どっち？」ってなります。<br />
+例えばこういうときこんがらがりますね。</p>
+
+<blockquote>
+
+<p>【コード】<br />
+<a href="https://gist.github.com/kotoripiyopiyo/cd8ad49ae6e200c328a1e61543dda803">https://gist.github.com/kotoripiyopiyo/cd8ad49ae6e200c328a1e61543dda803</a><br />
+</blockquote></p>
+
+<p>上半分は「空文字はFalse」のルールに基づいたもの。<br />
+not空文字がTrueになるから、実行して、空行を送ると、再度「名前を入力してください：」と聞かれます。</p>
+
+<p>でも直感的には……というか、直感が働かず、「ん？　ん？」ってなります。</p>
+</div><!-- .entry-body -->
+
+<!-- links to your extended entry -->
+	<div class="item-header more-header">
+		<a href="https://kotoripiyopiyo.com/2020/08/tureandfalse20200816.html#more">続きを読む</a>
+	</div>
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/08/16　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef0263e959e802200b">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/08/roundfloat20200803.html">浮動小数点かround()の深みを覗いてしまった【Python勉強ちう】</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p>round()という、四捨五入っぽいことをする関数をいじっていて、<strong>不思議な結果</strong>に気付きました。<br />
+具体的にいうと、</p>
+
+<blockquote>
+
+<p>round(10.50001)<br />
+11</blockquote></p>
+
+<p>なのに、</p>
+
+<blockquote>
+
+<p>round(10.50000000000000000000000000001)<br />
+10</blockquote></p>
+
+<p>なのです。</p>
+
+<p>どうやら、何桁目くらいからか、結果が変わる様子。<br />
+同じ計算をしているのに。</p>
+
+<p>そこで、こんなコードを書いて、何桁目から11が10になるのか、調べようとしました。</p>
+
+<blockquote>
+【コード】
+<a href="https://gist.github.com/kotoripiyopiyo/64598757885cae50537d870d424198d1#file-gistfile1-txt">https://gist.github.com/kotoripiyopiyo/64598757885cae50537d870d424198d1#file-gistfile1-txt</a></blockquote>
+
+<p>しかし……<br />
+結果は想像の斜め上をいくものでした。こんな感じ。</p>
+</div><!-- .entry-body -->
+
+<!-- links to your extended entry -->
+	<div class="item-header more-header">
+		<a href="https://kotoripiyopiyo.com/2020/08/roundfloat20200803.html#more">続きを読む</a>
+	</div>
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/08/03　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef0263e955c924200b">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/07/python20200711.html">[Python勉強中] 祝！最初の壁を乗り越えた！</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p><span class="normal2"><strong>超頑張った！</strong></span>　久々に自分に感動しました。</p>
+
+<p>何に感動したか？<br />
+自分で決めた目標、「『<a href="https://tellusxdp.github.io/start-python-with-tellus/index.html">Tellus×TechAcademy初心者向け Tellus 学習コース</a>』で、Pythonと機械学習の基礎をゼロから勉強する」をやり遂げたことです。</p>
+
+<p>そもそもプログラミングを今さらやろうと思ったのには、いくつか<strong>理由</strong>がありました。</p>
+</div><!-- .entry-body -->
+
+<!-- links to your extended entry -->
+	<div class="item-header more-header">
+		<a href="https://kotoripiyopiyo.com/2020/07/python20200711.html#more">続きを読む</a>
+	</div>
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/07/12　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef0264e2e797da200d">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/07/python20200708.html">[Python]ダサいコードを書き直し、半分のサイズにする</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p>こういうgifアニメを作ったのです。</p>
+
+<p><br />
+<a class="asset-img-link"  style="display: inline;" href="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263ec2704bf200c-pi"><img class="asset  asset-image at-xid-6a00d8341bfbdf53ef0263ec2704bf200c img-responsive" alt="Rocket_anime" title="Rocket_anime" src="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263ec2704bf200c-pi" /></a><br /></p>
+
+<p>最初は配列とかfor文とか使って、短く書こうと思いました。<br />
+しかし、プログラミングに詳しい人も詳しくない人も<strong>何を言ってるかわからない</strong>と思いますが、配列の中に配列を入れることができず、何を試してエラーが出て……</p>
+
+<p>むなしく1時間2時間3時間と過ぎていき……</p>
+
+<p>結果、<strong>悔し涙に頬を濡らし</strong>ながら、格好良くまとめるのは諦めて、ダサすぎますが全部普通に書くというコードにしました。<br />
+どれだけダサかったか？　こんな感じです。<strong>上から順番に1行ずつ実行されるだけ</strong>、というレベルのダサさ。</p>
+
+<blockquote><a href="https://github.com/kotoripiyopiyo/python/issues/7#issue-653340988">https://github.com/kotoripiyopiyo/python/issues/7#issue-653340988</a>（コード部分45行）</blockquote>
+
+<p>モヤモヤを抱えながら寝て、起きて、しばらくすると、友人の<a href="https://twitter.com/cheebow">CHEEBOW</a>さんから、</p>
+
+<p>「同じ処理をしている部分を関数にまとめてみるとよいのかも」</p>
+
+<p>という、天啓のようなアドバイスをいただきまして。</p>
+
+<p><span class="normal2"><strong>関数にまとめる！！！</strong></span><br />
+すっかり忘れてた！　そういえばそんなこと、教科書の最初の方に書いてあった！</p>
+</div><!-- .entry-body -->
+
+<!-- links to your extended entry -->
+	<div class="item-header more-header">
+		<a href="https://kotoripiyopiyo.com/2020/07/python20200708.html#more">続きを読む</a>
+	</div>
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/07/09　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef0263e9547f20200b">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/07/%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F.html">池上の古民家カフェ「蓮月」にて、AppleのHomepodが超有能なことを体験する</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p class="p1">池上の古民家カフェ「蓮月」では、まあまあ広いスペースのどの場所でも、ジャズが静かに流れています。</p>
+<p><a class="asset-img-link" href="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263e9547f30200b-pi" style="display: inline;"><img alt="116F2059-C2E1-46C3-ADEB-023CF32623CB" class="asset  asset-image at-xid-6a00d8341bfbdf53ef0263e9547f30200b img-responsive" src="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263e9547f30200b-500wi" title="116F2059-C2E1-46C3-ADEB-023CF32623CB" /></a></p>
+<p class="p1">このBGM環境が、隅っこに置かれている<span class="s1">Apple</span>の<span class="s1">HomePod</span>一台で実現されていて、びっくりしました。</p>
+<p><a class="asset-img-link" href="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263e9547efd200b-pi" style="display: inline;"><img alt="B49CC708-7353-45A4-A86D-A1E9D0D67FBB" class="asset  asset-image at-xid-6a00d8341bfbdf53ef0263e9547efd200b img-responsive" src="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263e9547efd200b-500wi" title="B49CC708-7353-45A4-A86D-A1E9D0D67FBB" /></a></p>
+<h2 class="p1">&#0160;</h2>
+<h2 class="p1">● HomePod<span class="s1">の技術のスゴさ</span></h2>
+<p class="p1">ほら、HomePodって、あまり話題にならないじゃないですか？　僕も忘れてたし。</p>
+<p class="p1">でもこれ、据え置きスピーカーとして超優秀なんじゃないでしょうか？　もしかして。<br />音量を絞ったままで、部屋の隅々にまで音楽を流れるのって素晴らしい。むやみに音量上げなくていい！</p>
+<p class="p1"><a href="https://www.apple.com/jp/homepod/" rel="noopener" target="_blank"><span class="s1">HomePod</span><span class="s2">の</span><span class="s3">公式ページ</span></a>では、こう説明しています。</p>
+</div><!-- .entry-body -->
+
+<!-- links to your extended entry -->
+	<div class="item-header more-header">
+		<a href="https://kotoripiyopiyo.com/2020/07/%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F.html#more">続きを読む</a>
+	</div>
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/07/04　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">ガジェット</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef0264e2e680ef200d">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/07/onionpasta20200703.html">超簡単、美味しい、ヘルシー「玉ねぎの酒蒸しパスタ」のレシピ</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p><span class="normal2"><strong>あっぶない！</strong></span>　ほとんど忘れかけていました。<br />
+先週末のランチに作ったオリジナルレシピ、完全に大脳新皮質から失われる前に、ここに書き留めておこうと思います。</p>
+
+<p><a class="asset-img-link"  style="display: inline;" href="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0264e2e680c5200d-pi"><img class="asset  asset-image at-xid-6a00d8341bfbdf53ef0264e2e680c5200d img-responsive" alt="IMG_1811" title="IMG_1811" src="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0264e2e680c5200d-500wi" /></a></p>
+
+<p><strong>●「玉ねぎの酒蒸しパスタ」のレシピ（2人前）</strong></p>
+</div><!-- .entry-body -->
+
+<!-- links to your extended entry -->
+	<div class="item-header more-header">
+		<a href="https://kotoripiyopiyo.com/2020/07/onionpasta20200703.html#more">続きを読む</a>
+	</div>
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/07/03　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/foo_/">食べ物</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef0264e2e67e81200d">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/07/pythonfor20200703.html">何がなんでもfor文を使ってみる[Phthon勉強中]</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p>なんかもにょもにょいじってたらできた……</p>
+
+<p>今回は、こんな画像をPythonで作りました。オリジナルのロケット画像を、赤だけにしたり、白黒にしたりして、くっつけて並べた感じです。</p>
+
+<p><a class="asset-img-link"  style="display: inline;" href="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263ec25f17d200c-pi"><img class="asset  asset-image at-xid-6a00d8341bfbdf53ef0263ec25f17d200c img-responsive" alt="Rockets" title="Rockets" src="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263ec25f17d200c-500wi" /></a></p>
+
+<p>いつもの「<a href="https://tellusxdp.github.io/start-python-with-tellus/index.html">Tellus×TechAcademy 初心者向け Tellus 学習コース</a>」で学びました。でも以下のコード、なんか繰り返しに見えるところが多かったので、for文でまとめられないかなーと、この1週間ほどあれこれいじってたんですよね。</p>
+</div><!-- .entry-body -->
+
+<!-- links to your extended entry -->
+	<div class="item-header more-header">
+		<a href="https://kotoripiyopiyo.com/2020/07/pythonfor20200703.html#more">続きを読む</a>
+	</div>
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/07/03　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef0263e95337aa200b">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/06/bbq20200628.html">初挑戦、本気で肉を焼いてみた（野菜スープのレシピもおまけ）</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p>僕は、料理は結構やるのですが、本気で肉を焼いたことはありません。</p>
+
+<p>肉って、ちゃんと焼こうとすると、<strong>すごく難しそう</strong>じゃないですか？<br />
+<strong>肉焼き道</strong>みたいのがあって、道具、時間、温度、一連の流れなど、さまざまなトラップがありそうだし。</p>
+
+<p>友だちに<strong>肉焼き名人</strong>がいるのですが、やっぱり、上手い人が焼いた肉は、<strong>異常に美味しい</strong>んですよね。口に入れた瞬間<strong>「うまっ！」</strong>と声が出るくらい。</p>
+
+<p>なので、肉焼きからは逃げる人生を送っていたのですが、料理の経験も積んだ今、<strong>そろそろいい</strong>んじゃないかと思って、調べたり友だちに聞いたりしたんです。</p>
+
+<p>結論としては、「低温調理」という必殺技を除けば、とりあえずこんな感じのレシピがベストかな、と。</p>
+
+<blockquote>
+
+<p><strong>【材料】</strong><br />
+・牛肉（たぶんどの部位でもいい。サーロインとか）厚さ3cm<br />
+・塩<br />
+・デジタル温度計</p>
+
+<p><strong>【作り方】</strong><br />
+1. 肉を30分〜おいて、常温に戻す<br />
+2. 軽く、本当に軽く、塩を振る<br />
+3. フライパンを強火で熱する<br />
+4. 油を引き（牛脂だとベストだけどなんでもいい）、中火に<br />
+5. 肉を投入。30秒〜1分<br />
+6. 表面がいい感じに焦げたら、裏返す。30秒〜1分<br />
+7. 温度計で中心部の温度が48度くらいになっていたら、フライパンからとりだし、アルミホイルに包む<br />
+8. アルミホイルにデジタル温度計をぶっ挿し、中心部の温度を測る。53度〜63度くらいになったら、そこから10分〜30分置く</p>
+
+<p>【要点】<br />
+・大事なのは「肉汁を内部に閉じ込めること」。だから最初に表面を固める<br />
+・その後は余熱で火が通る。53度でアミノ酸分解が進みつつ柔らかさは保たれる</blockquote></p>
+
+<p>なるほど……<strong>これはどっかで何か間違えるだろう！</strong></p>
+
+<p>心配な気持ちを抱えたまま、スーパーで、オージービーフのお値段40%引きのやつを購入。<br />
+厚さが3cmじゃなくて1cmで、<strong>さっそく誤算</strong>ですが、人は自分の持ってる武器で戦わなくてはいけないのです。</p>
+
+<p>デジタル温度計もニトリで購入済み。買ったのはこれ。</p>
+
+<p><a class="asset-img-link"  style="display: inline;" href="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0264e2e54f42200d-pi"><img class="asset  asset-image at-xid-6a00d8341bfbdf53ef0264e2e54f42200d img-responsive" alt="IMG_1904" title="IMG_1904" src="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0264e2e54f42200d-500wi" /></a></p>
+
+<p>「差し込んでなかみの温度がわかる」とか、<strong>まさに僕が欲しい機能をピンポイントでアピール</strong>していたので、迷わず決めました。</p>
+
+<p>準備は整った。さあ、焼きはじめます。</p>
+
+<p>肉を常温に戻し、塩を降って、フライパンに肉を放り込みました。<br />
+すると、いきなり、</p>
+
+<p><a class="asset-img-link"  style="display: inline;" href="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0264e2e54f63200d-pi"><img class="asset  asset-image at-xid-6a00d8341bfbdf53ef0264e2e54f63200d img-responsive" alt="IMG_1905" title="IMG_1905" src="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0264e2e54f63200d-500wi" /></a></p>
+
+<p><span class="normal2"><strong>ジュワワーッと肉汁が飛び出してきましてね！</strong></span><br />
+なんで！？　聞いてないよ！<br />
+「肉汁を閉じ込める」ことこそが肉焼きの要点だというのに！</p>
+
+<p>一番やってはいけないことをしでかしてしまいました。<br />
+「<strong>失敗</strong>」の二文字が頭をよぎります。</p>
+</div><!-- .entry-body -->
+
+<!-- links to your extended entry -->
+	<div class="item-header more-header">
+		<a href="https://kotoripiyopiyo.com/2020/06/bbq20200628.html#more">続きを読む</a>
+	</div>
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/06/28　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/foo_/">食べ物</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+
+<!-- this displays your posts, without any post you've marked as "featured" -->
+
+<div class="item-block entry" id="entry-6a00d8341bfbdf53ef0263e951dbfc200b">
+
+<h1 class="item-header entry-header">
+	<a href="https://kotoripiyopiyo.com/2020/06/%E6%B5%B7%E9%AE%AE%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%AE%E3%83%AC%E3%82%B7%E3%83%94.html">海鮮野菜スープのレシピ</a>
+</h1><!-- item-header entry-header -->
+
+<div class="item-content entry-content pkg">
+
+<div class="entry-body">
+	<p>オリジナルレシピの場合、大抵は数ヶ月後に「また作りたい」と思っても、レシピをさっぱりと忘れてしまっているので、ここに書き留めておきたいと思います。</p>
+<p><a class="asset-img-link" href="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263ec237f54200c-pi" style="display: inline;"><img alt="488847CF-1029-4FDF-BC72-6D34CF1E6EE1" class="asset  asset-image at-xid-6a00d8341bfbdf53ef0263ec237f54200c img-responsive" src="https://coolsummer.typepad.com/.a/6a00d8341bfbdf53ef0263ec237f54200c-500wi" title="488847CF-1029-4FDF-BC72-6D34CF1E6EE1" /></a></p>
+<p>【材料】</p>
+<p>玉ねぎ中×2、人参1、キャベツ半玉、ニンニク1、ジャガイモ中4、コンソメブロック2、シーフードミックスひと袋</p>
+<p>【作り方】</p>
+<p>1. 玉ねぎ、人参、ニンニク、キャベツを切って炒める</p>
+<p>2. キャベツがぐったりしたくらいで、残りの材料を入れ、水を800ml〜1ℓ入れ、コトコト煮る</p>
+<p>【味】</p>
+<p>優しい味。お腹を休めたい時に良い</p>
+</div><!-- .entry-body -->
+
+
+
+</div><!-- item-content entry-content pkg -->
+
+<div class="entry-footer">
+
+2020/06/21　
+
+<!-- links to the entry's categories -->カテゴリ：<a href="https://kotoripiyopiyo.com/foo_/">食べ物</a>　
+
+</div><!-- .entry-footer -->
+
+</div><!-- item-block entry -->
+
+
+
+	<div class="pagenation">
+	<div class="pagenation-inner">
+
+		
+
+		
+
+		<span class="item-header more-header pagenation-right"><a href="https://kotoripiyopiyo.com/page/2/">次＞</a></span>
+
+	</div><!-- pagenation-inner -->
+	</div><!-- pagenation -->
+
+
+
+
+
+
+<div class="item-content-adsense">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- ピヨピヨインデックス下 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4207812397037306"
+     data-ad-slot="8605979874"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+
+</div><!-- #alpha-inner -->
+</div><!-- #alpha -->
+
+
+
+
+<!-- sidebar is included from a module -->
+<div id="beta">
+<div id="beta-inner" class="pkg">
+
+<!-- include sidebar module content here -->
+
+
+<div class="sidebar-item-block sidebar-about">
+<a href="https://kotoripiyopiyo.com/aboutthisblog.html"><h4 class="sidebar-item-header sidebar-about-header">このブログについて</h4></a>
+<div class="sidebar-content">
+<a href="https://kotoripiyopiyo.com/aboutthisblog.html"><img src="https://coolsummer.typepad.com/design/kotoripiyopiyoblogicon.jpg" style="float: left; margin: 0px 3px 3px 0px;" border="0"></a><!-- <span style="color:#ff9900;">（2012/5/29更新）</span> -->日常のごくささやかな出来事に過剰反応しているブログです。管理人は清田いちるです。
+<div class="sidebar-item-more"><a href="https://kotoripiyopiyo.com/aboutthisblog.html">&rArr; もっと読む</a></div>
+</div><!-- sidebar-content -->
+</div><!-- sidebar-about -->
+
+<!---
+<div class="sidebar-item-block sidebar-whatsnew">
+<h4 class="sidebar-item-header sidebar-whatsnew-header">お知らせ</h4>
+<div class="sidebar-content">
+<ul class="sidebar-list">
+<li>小鳥メモメモの方で「<a href="http://kotoripiyopiyo.tumblr.com/tagged/%E3%81%88%E3%81%84%E3%81%A3" target="_blank">えいっ</a>」という、ピヨピヨのB面というかチラ裏みたいなコーナーを書きはじめました（2013/4/15）</li>
+</ul>
+</div>
+</div>
+--->
+
+<div class="sidebar-item-block sidebar-search">
+<h4 class="sidebar-item-header sidebar-search-header">検索</h4>
+<div class="sidebar-content">
+
+<form action="https://www.google.com/cse" id="cse-search-box" target="_blank">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-4207812397037306:9by0brosjt4" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="28" />
+    <input type="submit" name="sa" value="&#x691c;&#x7d22;" />
+  </div>
+</form>
+
+<script type="text/javascript" src="https://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=ja"></script>
+
+</div><!-- sidebar-content -->
+</div><!-- sidebar-search -->
+
+<div class="sidebar-item-block sidebar-about">
+<h4 class="sidebar-item-header sidebar-about-header">Amazon欲しいものリスト</h4>
+<div class="sidebar-content">
+<ul class="sidebar-list">
+<li>誕生日の前後半年受け付けております→ <a href="https://www.amazon.co.jp/gp/registry/wishlist/1JAOZW89UJN9B/ref=cm_wl_sortbar_o_page_1?sort=priority&view=null" target="_blank">いつか欲しいものリスト</a>
+</li>
+</ul>
+</div><!-- sidebar-content -->
+</div><!-- sidebar-about -->
+
+<div class="sidebar-item-block sidebar-pickup">
+<h4 class="sidebar-item-header sidebar-pickup-header"><span style="color: #FF3300; font-weight: bold; font-size: 50%;">new! </span>よりぬき小鳥ピヨピヨ</h4>
+<div class="sidebar-content">
+<ul class="sidebar-list">
+<li><a href="https://kotoripiyopiyo.com/2003/10/post_16.html">スネ夫を正面から見たら</a></li>
+<li><a href="https://kotoripiyopiyo.com/2013/05/masyo20130502.html">中２（14歳）のとき書いた小説『我が名は魔性』を公開します</a></li>
+<li><a href="https://kotoripiyopiyo.com/2007/02/post_11.html">人間関係のこじれを解決するのが得意な人</a></li>
+<li><a href="https://kotoripiyopiyo.com/2004/06/post_6.html">父のファンタスティックな快適睡眠法</a></li>
+<li><a href="https://kotoripiyopiyo.com/2005/08/post_24.html">クラリネット壊しちゃって発狂</a></li>
+<li><a href="https://kotoripiyopiyo.com/2005/06/pc88.html">僕が惚れ込んだPC8801mkIIゲームたち</a></li>
+<li><a href="https://kotoripiyopiyo.com/2014/11/sakura21041117.html">家購入の途上で悩む人へ 〜 「さくら事務所」に相談せよ！ 〜</a></li>
+<li><a href="https://kotoripiyopiyo.com/2003/10/post_33.html">使えな過ぎて笑う、パワーポイントのクリップアート集</a></li>
+<li><a href="https://kotoripiyopiyo.com/2012/07/mariebelle20120719.html">完璧なチョコレート店「マリベル」の完璧ぐあいをまとめた</a></li>
+<li><a href="https://kotoripiyopiyo.com/2010/04/rakuten20100416.html">美味しいカステラなのに楽天メソッドが極まりすぎてて残念な場合</a></li>
+<li><a href="https://kotoripiyopiyo.com/2006/05/post.html">「脳の右側で描け」のワークショップで自画像を描いたよ</a></li>
+<li><a href="https://kotoripiyopiyo.com/2006/07/post_6.html">ミキ姉ちゃんの就職活動と挫折とその後</a></li>
+<li><a href="https://kotoripiyopiyo.com/2007/10/post-8.html">絶対に道玄坂に連れて行ってくれないタクシー</a></li>
+<li><a href="https://kotoripiyopiyo.com/2006/08/post_3.html">コメディアンの戦闘能力について</a></li>
+<li><a href="https://kotoripiyopiyo.com/2010/04/tonkatsudiet20100427.html">アメリカ人、トンカツを食べまくってダイエットする</a></li>
+<li><a href="https://kotoripiyopiyo.com/2009/05/superstudent20090507.html">名言を連発する大学生</a></li>
+<li><a href="https://kotoripiyopiyo.com/2012/09/kakuniman20120907.html">【悲劇】あの「一風堂の角煮まん」が銀座店にあるというので、行ってきた</a></li>
+<li><a href="https://kotoripiyopiyo.com/2012/11/socialcut20121113.html">１ヶ月半「ソーシャル断ち」してました</a></li>
+<li><a href="https://kotoripiyopiyo.com/2008/01/post-6.html">中２病は夜でも朝でもなく昼に発症する</a></li>
+</ul>
+<div class="sidebar-item-more"><a href="https://kotoripiyopiyo.com/pickupkotoripiyopiyo.html">&rArr; もっとよりぬきを見る</a></div>
+</div><!-- sidebar-content -->
+</div><!-- sidebar-pickup -->
+
+<div class="sidebar-item-block sidebar-about">
+<h4 class="sidebar-item-header sidebar-about-header">スポンサードリンク</h4>
+<div class="sidebar-content">
+<ul class="sidebar-list">
+<li>
+Google Ads<br />
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 小鳥ピヨピヨレスポンシブサイドバー -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4207812397037306"
+     data-ad-slot="8540857076"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</li>
+</ul>
+</div><!-- sidebar-content -->
+</div><!-- sidebar-about -->
+
+
+<div class="sidebar-item-block sidebar-about">
+<a href="https://kotoripiyopiyo.com/2012/07/nakanohito20120709.html"><h4 class="sidebar-item-header sidebar-about-header">電子書籍書きました</h4></a>
+<div class="sidebar-content">
+<ul class="sidebar-list">
+<li>
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=alittlebird-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00CLTK3WI" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+</li>
+<li>
+<iframe src="https://rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=FFFFFF&IS2=1&nou=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=alittlebird-22&o=9&p=8&l=as4&m=amazon&f=ifr&ref=ss_til&asins=B00CF0G0E8" style="width:120px;height:240px;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+</li>
+</ul>
+</div><!-- sidebar-content -->
+</div><!-- sidebar-about -->
+
+<div class="sidebar-item-block sidebar-recent">
+<h4 class="sidebar-item-header sidebar-recent-header">最近の記事</h4>
+<div class="sidebar-content">
+	<ul class="sidebar-list">
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/09/guessthenumber20200903.html">何も見ずに書いた「数当てゲーム」【Python勉強中】</a></li>
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/08/tureandfalse20200816.html">TrueとFalseでこんがらがる[Python勉強中]</a></li>
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/08/roundfloat20200803.html">浮動小数点かround()の深みを覗いてしまった【Python勉強ちう】</a></li>
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/07/python20200711.html">[Python勉強中] 祝！最初の壁を乗り越えた！</a></li>
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/07/python20200708.html">[Python]ダサいコードを書き直し、半分のサイズにする</a></li>
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/07/%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F-%E3%81%9F.html">池上の古民家カフェ「蓮月」にて、AppleのHomepodが超有能なことを体験する</a></li>
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/07/onionpasta20200703.html">超簡単、美味しい、ヘルシー「玉ねぎの酒蒸しパスタ」のレシピ</a></li>
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/07/pythonfor20200703.html">何がなんでもfor文を使ってみる[Phthon勉強中]</a></li>
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/06/bbq20200628.html">初挑戦、本気で肉を焼いてみた（野菜スープのレシピもおまけ）</a></li>
+	
+		<li><a href="https://kotoripiyopiyo.com/2020/06/%E6%B5%B7%E9%AE%AE%E9%87%8E%E8%8F%9C%E3%82%B9%E3%83%BC%E3%83%97%E3%81%AE%E3%83%AC%E3%82%B7%E3%83%94.html">海鮮野菜スープのレシピ</a></li>
+	
+	</ul>
+<div class="sidebar-item-more"><a href="#nav">&rArr; バックナンバー一覧を見る</a></div>
+</div><!-- sidebar-content -->
+</div><!-- sidebar-recent -->
+
+</div><!-- #beta-inner -->
+</div><!-- #beta -->
+
+</div><!-- #pagebody-inner -->
+</div><!-- #pagebody -->
+
+<!-- navigation bar is included from a module, so you can edit it once and reuse it across your blog -->
+<div id="nav">
+<a name="nav"></a>
+<div id="nav-inner" class="pkg">
+
+
+<div class="nav-item-block nav-meta">
+<h4 class="nav-header nav-meta-header">ナビとかメタとか</h4>
+<div class="nav-content">
+<ul class="nav-list">
+<li>このブログについて<br />
+<span class="nav-memo">日常で起こる、ごくささやかな出来事に過剰反応しているブログです。管理人はいちるです。 <a href="https://kotoripiyopiyo.com/aboutthisblog.html">&rArr; 続きを読む</a></span>
+</li>
+<li><a href="https://kotoripiyopiyo.com/pickupkotoripiyopiyo.html">よりぬき小鳥ピヨピヨ</a></li>
+<li><a href="https://kotoripiyopiyo.com/">トップページ</a></li>
+<li><a href="#top">このページの一番上へ</a></li>
+<li><a href="https://twitter.com/kotoripiyopiyo" target="_blank"><img src="https://coolsummer.typepad.com/design/twittericon.gif" width="16" height="16" style="vertical-align: middle;" /> Twitter</a></li>
+<li><a href="https://kotoripiyopiyo.com/index.rdf" target="_blank"><img src="https://coolsummer.typepad.com/design/rssicon.gif" width="16" height="16" style="vertical-align: middle;" /> RSS</a></li>
+<li><a href="http://kotoripiyopiyo.tumblr.com/" target="_blank"><img src="https://coolsummer.typepad.com/design/tumblricon.gif" width="16" height="16" style="vertical-align: middle;" /> Tumblr</a></li>
+<li><a href="https://www.facebook.com/kotoripiyopiyopage" target="_blank"><img src="https://coolsummer.typepad.com/design/icon_facebook.png" width="16" height="16" style="vertical-align: middle;" /> Facebook</a></li>
+<li><a href="https://kotoripiyopiyo.com/aboutthisblog.html" target="_blank"><img src="https://coolsummer.typepad.com/design/icon_mail.gif" width="16" height="16" style="vertical-align: middle;" /> Mail</a></li>
+<li><a href="http://b.hatena.ne.jp/kotoripiyopiyo/" target="_blank"><img src="https://coolsummer.typepad.com/design/icon_hatena.gif" width="16" height="16" style="vertical-align: middle;" /> はてブ</a></li>
+<li><a href="http://b.hatena.ne.jp/entrylist?url=http://coolsummer.typepad.com/kotori/" target="_blank"><img src="https://b.hatena.ne.jp/bc/http://coolsummer.typepad.com/kotori/" class="bcounter" alt="旧小鳥ピヨピヨのはてなブックマーク数" title="旧小鳥ピヨピヨのはてなブックマーク数"></a>
+<br />
+<a href="http://b.hatena.ne.jp/entrylist?url=http://kotoripiyopiyo.com/" target="_blank"><img src="http://b.hatena.ne.jp/bc/http://kotoripiyopiyo.com/" class="bcounter" alt="小鳥ピヨピヨのはてなブックマーク数" title="小鳥ピヨピヨのはてなブックマーク数"></a></li>
+</ul>
+</div><!-- nav-content -->
+</div><!-- nav-item-block -->
+
+
+<div class="nav-item-block nav-archive">
+<h4 class="nav-header nav-monthly-header">まとめ</h4>
+<div class="nav-content">
+
+<form name="archievemon_form">
+月ごと<br />
+    <select name="link" onchange="archievemon()">
+        <option value="">選んでください</option>
+
+        <option value="http://kotoripiyopiyo.com/2020/09/index.html">2020年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2020/08/index.html">2020年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2020/07/index.html">2020年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2020/06/index.html">2020年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2020/05/index.html">2020年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2020/04/index.html">2020年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2020/03/index.html">2020年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2020/02/index.html">2020年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2020/01/index.html">2020年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2019/12/index.html">2019年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2019/11/index.html">2019年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2019/10/index.html">2019年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2019/09/index.html">2019年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2019/07/index.html">2019年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2019/06/index.html">2019年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2019/05/index.html">2019年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2019/01/index.html">2019年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2018/12/index.html">2018年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2018/10/index.html">2018年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2018/07/index.html">2018年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2018/06/index.html">2018年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2018/04/index.html">2018年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2018/03/index.html">2018年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2018/01/index.html">2018年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/12/index.html">2017年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/11/index.html">2017年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/10/index.html">2017年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/09/index.html">2017年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/08/index.html">2017年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/07/index.html">2017年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/06/index.html">2017年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/05/index.html">2017年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/04/index.html">2017年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/03/index.html">2017年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/02/index.html">2017年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2017/01/index.html">2017年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/12/index.html">2016年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/11/index.html">2016年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/10/index.html">2016年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/09/index.html">2016年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/08/index.html">2016年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/07/index.html">2016年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/06/index.html">2016年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/05/index.html">2016年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/04/index.html">2016年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/03/index.html">2016年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/02/index.html">2016年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2016/01/index.html">2016年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/12/index.html">2015年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/11/index.html">2015年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/10/index.html">2015年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/09/index.html">2015年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/08/index.html">2015年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/07/index.html">2015年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/06/index.html">2015年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/05/index.html">2015年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/04/index.html">2015年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/03/index.html">2015年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/02/index.html">2015年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2015/01/index.html">2015年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/12/index.html">2014年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/11/index.html">2014年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/10/index.html">2014年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/09/index.html">2014年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/08/index.html">2014年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/07/index.html">2014年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/06/index.html">2014年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/05/index.html">2014年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/04/index.html">2014年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/03/index.html">2014年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/02/index.html">2014年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2014/01/index.html">2014年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/12/index.html">2013年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/11/index.html">2013年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/10/index.html">2013年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/09/index.html">2013年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/08/index.html">2013年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/07/index.html">2013年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/06/index.html">2013年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/05/index.html">2013年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/04/index.html">2013年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/03/index.html">2013年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/02/index.html">2013年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2013/01/index.html">2013年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/12/index.html">2012年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/11/index.html">2012年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/10/index.html">2012年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/09/index.html">2012年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/08/index.html">2012年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/07/index.html">2012年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/06/index.html">2012年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/05/index.html">2012年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/04/index.html">2012年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/03/index.html">2012年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/02/index.html">2012年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2012/01/index.html">2012年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/12/index.html">2011年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/11/index.html">2011年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/10/index.html">2011年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/09/index.html">2011年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/08/index.html">2011年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/07/index.html">2011年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/06/index.html">2011年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/05/index.html">2011年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/04/index.html">2011年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/03/index.html">2011年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/02/index.html">2011年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2011/01/index.html">2011年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/12/index.html">2010年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/11/index.html">2010年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/10/index.html">2010年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/09/index.html">2010年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/08/index.html">2010年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/07/index.html">2010年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/06/index.html">2010年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/05/index.html">2010年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/04/index.html">2010年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/03/index.html">2010年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/02/index.html">2010年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2010/01/index.html">2010年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/12/index.html">2009年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/11/index.html">2009年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/10/index.html">2009年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/09/index.html">2009年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/08/index.html">2009年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/07/index.html">2009年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/06/index.html">2009年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/05/index.html">2009年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/04/index.html">2009年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/03/index.html">2009年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/02/index.html">2009年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2009/01/index.html">2009年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/12/index.html">2008年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/11/index.html">2008年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/10/index.html">2008年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/09/index.html">2008年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/08/index.html">2008年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/07/index.html">2008年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/06/index.html">2008年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/05/index.html">2008年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/04/index.html">2008年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/03/index.html">2008年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/02/index.html">2008年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2008/01/index.html">2008年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/12/index.html">2007年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/11/index.html">2007年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/10/index.html">2007年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/09/index.html">2007年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/08/index.html">2007年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/07/index.html">2007年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/06/index.html">2007年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/05/index.html">2007年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/04/index.html">2007年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/03/index.html">2007年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/02/index.html">2007年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2007/01/index.html">2007年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/12/index.html">2006年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/11/index.html">2006年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/10/index.html">2006年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/09/index.html">2006年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/08/index.html">2006年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/07/index.html">2006年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/06/index.html">2006年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/05/index.html">2006年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/04/index.html">2006年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/03/index.html">2006年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/02/index.html">2006年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2006/01/index.html">2006年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/12/index.html">2005年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/11/index.html">2005年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/10/index.html">2005年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/09/index.html">2005年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/08/index.html">2005年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/07/index.html">2005年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/06/index.html">2005年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/05/index.html">2005年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/04/index.html">2005年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/03/index.html">2005年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/02/index.html">2005年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2005/01/index.html">2005年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/12/index.html">2004年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/11/index.html">2004年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/10/index.html">2004年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/09/index.html">2004年9 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/08/index.html">2004年8 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/07/index.html">2004年7 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/06/index.html">2004年6 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/05/index.html">2004年5 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/04/index.html">2004年4 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/03/index.html">2004年3 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/02/index.html">2004年2 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2004/01/index.html">2004年1 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2003/12/index.html">2003年12 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2003/11/index.html">2003年11 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2003/10/index.html">2003年10 月</option>
+
+        <option value="http://kotoripiyopiyo.com/2003/09/index.html">2003年9 月</option>
+
+    </select>
+</form>
+
+<br /><br />
+
+<form name="archievecat_form">
+カテゴリごと<br />
+    <select name="link" onchange="archievecat()">
+        <option value="">選んでください</option>
+
+        <option value="https://kotoripiyopiyo.com/tul_/">1_タリーズにて起きたこと</option>
+
+        <option value="https://kotoripiyopiyo.com/bad_blogactionday/">BlogActionDay</option>
+
+        <option value="https://kotoripiyopiyo.com/fgo%E3%82%84fate%E3%82%84type-moon/">FGOやFateやTYPE-MOON</option>
+
+        <option value="https://kotoripiyopiyo.com/iphone/">iPhone</option>
+
+        <option value="https://kotoripiyopiyo.com/jins-meme/">jins meme</option>
+
+        <option value="https://kotoripiyopiyo.com/kindle/">Kindle</option>
+
+        <option value="https://kotoripiyopiyo.com/lumix-gh1/">Lumix GH1</option>
+
+        <option value="https://kotoripiyopiyo.com/misia/">misia</option>
+
+        <option value="https://kotoripiyopiyo.com/nik_nikeipod/">Nike+iPod</option>
+
+        <option value="https://kotoripiyopiyo.com/pr/">PR</option>
+
+        <option value="https://kotoripiyopiyo.com/rosettastone/">rosettastone</option>
+
+        <option value="https://kotoripiyopiyo.com/sma_start_mac/">start mac</option>
+
+        <option value="https://kotoripiyopiyo.com/twitter/">twitter</option>
+
+        <option value="https://kotoripiyopiyo.com/%E3%81%88%E3%81%84%E3%81%A3/">えいっ</option>
+
+        <option value="https://kotoripiyopiyo.com/%E3%81%8A%E3%82%82%E3%81%A1%E3%82%83/">おもちゃ</option>
+
+        <option value="https://kotoripiyopiyo.com/inf_/">お知らせ</option>
+
+        <option value="https://kotoripiyopiyo.com/oth_/">その他</option>
+
+        <option value="https://kotoripiyopiyo.com/tmk_/">たまにはまじめ小鳥</option>
+
+        <option value="https://kotoripiyopiyo.com/aco_/">アニメ・コスプレ・コミケ</option>
+
+        <option value="https://kotoripiyopiyo.com/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5/">アレクサ</option>
+
+        <option value="https://kotoripiyopiyo.com/art_/">アート</option>
+
+        <option value="https://kotoripiyopiyo.com/ind_/">インド</option>
+
+        <option value="https://kotoripiyopiyo.com/%E3%82%AC%E3%82%B8%E3%82%A7%E3%83%83%E3%83%88/">ガジェット</option>
+
+        <option value="https://kotoripiyopiyo.com/gcy_/">グランドキャニオン</option>
+
+        <option value="https://kotoripiyopiyo.com/kdub_/">ケダブ関連</option>
+
+        <option value="https://kotoripiyopiyo.com/%E3%82%B2%E3%82%B9%E3%83%88/">ゲスト</option>
+
+        <option value="https://kotoripiyopiyo.com/gam_/">ゲーム</option>
+
+        <option value="https://kotoripiyopiyo.com/tra_/">ゴミ</option>
+
+        <option value="https://kotoripiyopiyo.com/sha_/">シャスタ山</option>
+
+        <option value="https://kotoripiyopiyo.com/spo_/">スポーツ</option>
+
+        <option value="https://kotoripiyopiyo.com/cel_/">セレブスパム</option>
+
+        <option value="https://kotoripiyopiyo.com/dan_/">ダンス</option>
+
+        <option value="https://kotoripiyopiyo.com/tec_/">テクノロジ</option>
+
+        <option value="https://kotoripiyopiyo.com/tel_/">テレビ</option>
+
+        <option value="https://kotoripiyopiyo.com/new_/">ニュース</option>
+
+        <option value="https://kotoripiyopiyo.com/%E3%83%8D%E3%82%BF/">ネタ</option>
+
+        <option value="https://kotoripiyopiyo.com/net_/">ネットの話題</option>
+
+        <option value="https://kotoripiyopiyo.com/syh_/">ネット写真でひとこと</option>
+
+        <option value="https://kotoripiyopiyo.com/pct_/">パソコン関係の話題</option>
+
+        <option value="https://kotoripiyopiyo.com/fas_/">ファッション</option>
+
+        <option value="https://kotoripiyopiyo.com/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/">プログラミング</option>
+
+        <option value="https://kotoripiyopiyo.com/%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/">ポッドキャスティング</option>
+
+        <option value="https://kotoripiyopiyo.com/mar_/">マーケ、プロモ</option>
+
+        <option value="https://kotoripiyopiyo.com/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2/">メディア</option>
+
+        <option value="https://kotoripiyopiyo.com/rev_/">レビュー</option>
+
+        <option value="https://kotoripiyopiyo.com/fus_/">不思議</option>
+
+        <option value="https://kotoripiyopiyo.com/tyu_/">中学生</option>
+
+        <option value="https://kotoripiyopiyo.com/peo_/">人</option>
+
+        <option value="https://kotoripiyopiyo.com/pbi_/">人気ブロガーインタビュー</option>
+
+        <option value="https://kotoripiyopiyo.com/%E4%BB%95%E4%BA%8B/">仕事</option>
+
+        <option value="https://kotoripiyopiyo.com/%E4%BD%8F%E5%AE%85/">住宅</option>
+
+        <option value="https://kotoripiyopiyo.com/hea_/">健康</option>
+
+        <option value="https://kotoripiyopiyo.com/pho_/">写真</option>
+
+        <option value="https://kotoripiyopiyo.com/%E5%89%B5%E4%BD%9C/">創作</option>
+
+        <option value="https://kotoripiyopiyo.com/%E5%8B%95%E7%94%BB/">動画</option>
+
+        <option value="https://kotoripiyopiyo.com/%E5%8F%96%E6%9D%90/">取材</option>
+
+        <option value="https://kotoripiyopiyo.com/cut_/">可愛いもの</option>
+
+        <option value="https://kotoripiyopiyo.com/ear_/">地震</option>
+
+        <option value="https://kotoripiyopiyo.com/fam_/">家族</option>
+
+        <option value="https://kotoripiyopiyo.com/%E5%B0%8F%E9%B3%A5%E3%83%8A%E3%82%A4%E3%83%88/">小鳥ナイト</option>
+
+        <option value="https://kotoripiyopiyo.com/%E6%80%9D%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8/">思ったこと</option>
+
+        <option value="https://kotoripiyopiyo.com/pol_/">政治</option>
+
+        <option value="https://kotoripiyopiyo.com/pro_/">新提案</option>
+
+        <option value="https://kotoripiyopiyo.com/tra__1/">旅</option>
+
+        <option value="https://kotoripiyopiyo.com/ord_/">日常で起きた出来事</option>
+
+        <option value="https://kotoripiyopiyo.com/mov_/">映画</option>
+
+        <option value="https://kotoripiyopiyo.com/bok_/">書籍・雑誌・漫画</option>
+
+        <option value="https://kotoripiyopiyo.com/%E6%AC%A1%E4%B8%96%E4%BB%A3/">次世代</option>
+
+        <option value="https://kotoripiyopiyo.com/cry_/">泣き</option>
+
+        <option value="https://kotoripiyopiyo.com/kum_/">熊野</option>
+
+        <option value="https://kotoripiyopiyo.com/%E7%90%86%E7%A7%91%E7%A7%91%E5%AD%A6/">理科・科学</option>
+
+        <option value="https://kotoripiyopiyo.com/soc_/">社会</option>
+
+        <option value="https://kotoripiyopiyo.com/ecn_/">経済</option>
+
+        <option value="https://kotoripiyopiyo.com/aab_/">脳の右側で描け</option>
+
+        <option value="https://kotoripiyopiyo.com/%E8%87%AA%E8%BB%A2%E8%BB%8A/">自転車</option>
+
+        <option value="https://kotoripiyopiyo.com/ser_/">芸能</option>
+
+        <option value="https://kotoripiyopiyo.com/vow_/">街角スナップ</option>
+
+        <option value="https://kotoripiyopiyo.com/far_/">農業</option>
+
+        <option value="https://kotoripiyopiyo.com/%E9%87%91%E7%92%B0%E6%97%A5%E9%A3%9F%E9%A8%92%E3%81%8E/">金環日食騒ぎ</option>
+
+        <option value="https://kotoripiyopiyo.com/neu_neutral/">雑誌neutral</option>
+
+        <option value="https://kotoripiyopiyo.com/%E9%9B%91%E8%AB%87/">雑談</option>
+
+        <option value="https://kotoripiyopiyo.com/mus_/">音楽</option>
+
+        <option value="https://kotoripiyopiyo.com/foo_/">食べ物</option>
+
+    </select>
+</form>
+
+</div><!-- nav-content -->
+</div><!-- nav-item-block -->
+
+
+<div class="nav-item-block nav-link">
+<h4 class="nav-header nav-link-header">リンク</h4>
+<div class="nav-content">
+<ul class="nav-list">
+<li><a href="https://kotoripiyopiyo.com/" target="_blank"><strong>小鳥ピヨピヨ</strong></a>
+<span class="nav-memo">このブログです。</span></li>
+<li><a href="http://kotoripiyopiyo.tumblr.com/" target="_blank"><strong>小鳥メモメモ</strong></a>
+<span class="nav-memo">他サイトからのクリップやメモ書き（「えいっ」というタグをつけています）を置いています。Tumblrです。</span></li>
+<li><a href="https://www.shortnote.jp/" target="_blank"><strong>ShortNote</strong></a>
+<span class="nav-memo">エッセイ投稿サイトです。運営してます。</span></li>
+<li><a href="https://www.shortnote.jp/view/users/ANDt9L7q" target="_blank"><strong>いちる | ShortNote</strong></a>
+<span class="nav-memo">僕のShortNoteです。短いエッセイ集。</span></li>
+<li><a href="http://www.gizmodo.jp/" target="_blank"><strong>ギズモード・ジャパン</strong></a>
+<span class="nav-memo">初代編集長です。今の肩書は長老です。</span></li>
+<li><a href="http://coolsummer.typepad.com/kotaro/" target="_blank"><strong>刺激ビリビリ</strong></a>
+<span class="nav-memo">友だちのアニメ監督のブログです</span></li>
+</ul>
+</div><!-- nav-content -->
+</div><!-- nav-item-block -->
+
+
+</div>
+</div>
+
+<!--- google analytics --->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-68945-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!--- アーカイブリンク --->
+<script type="text/javascript">
+function archievemon() {
+    var browser = document.archievemon_form.link.value;
+    location.href = browser
+}
+</script>
+<script type="text/javascript">
+function archievecat() {
+    var browser = document.archievecat_form.link.value;
+    location.href = browser
+}
+</script>
+
+</div><!-- #container-inner -->
+</div><!-- #container -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<script>
+$(function() {
+    var $allVideos = $("iframe[src^='http://player.vimeo.com'], iframe[src^='http://www.youtube.com'], object, embed, .js-resize"),
+
+    $fluidEl = $("#alpha p");
+    
+    $allVideos.each(function() {
+    
+    $(this)
+    // jQuery .data does not work on object/embed elements
+    .attr('data-aspectRatio', this.height / this.width)
+    .removeAttr('height')
+    .removeAttr('width');
+
+    });
+    
+    $(window).resize(function() {
+      var newWidth = $fluidEl.width();
+      $allVideos.each(function() {
+      
+        var $el = $(this);
+        $el
+            .width(newWidth)
+            .height(newWidth * $el.attr('data-aspectRatio'));
+      
+      });
+    
+    }).resize();
+});
+</script>
+</body>
+</html>
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+<!-- ph=1 -->
